@@ -1,0 +1,27 @@
+{
+  "Biz Pulse": "Biz Pulse",
+  "Date": "Date",
+  "State / Region": "State / Region",
+  "Total Orders": "Total Orders",
+  "Average Order Profit": "Average Order Profit",
+  "First Purchasers": "First Purchasers",
+  "Orders by Day and Category": "Orders by Day and Category",
+  "Sales by Date": "Sales by Date",
+  "Top Zip Codes": "Top Zip Codes",
+  "Sales by State": "Sales by State",
+  "Top 15 Brands": "Top 15 Brands",
+  "Sales by Date and Category": "Sales by Date and Category",
+  "Cohort Title": "Cohort Title",
+  "Orders By Sign Up Month": "Orders By Sign Up Month",
+  "Layered Cohort": "Layered Cohort",
+  "Tabular Cohort": "Tabular Cohort",
+
+  "localized_project": "Localized Project",
+  "products": "Products",
+  "item_name": "Item Name",
+  "users": "Users",
+  "id": "ID",
+  "orders": "Orders",
+  "age": "Age",
+  "count": "Count"
+}
