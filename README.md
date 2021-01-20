@@ -1,3 +1,1 @@
-# test_git
-
-#test2
+#resolving conflicts
