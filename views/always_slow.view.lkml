@@ -3,6 +3,7 @@ explore: always_slow {
   persist_for: "0 seconds"
 }
 #
+#
 #hello
 view: always_slow {
   derived_table: {
